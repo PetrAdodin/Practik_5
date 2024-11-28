@@ -1,0 +1,9 @@
+E:\Информатика\3 semester\Practik_5\obj\Debug\Practik_5.csproj.AssemblyReference.cache
+E:\Информатика\3 semester\Practik_5\obj\Debug\Practik_5.Properties.Resources.resources
+E:\Информатика\3 semester\Practik_5\obj\Debug\Practik_5.csproj.GenerateResource.cache
+E:\Информатика\3 semester\Practik_5\obj\Debug\Practik_5.csproj.CoreCompileInputs.cache
+E:\Информатика\3 semester\Practik_5\bin\Debug\Practik_5.exe.config
+E:\Информатика\3 semester\Practik_5\bin\Debug\Practik_5.exe
+E:\Информатика\3 semester\Practik_5\bin\Debug\Practik_5.pdb
+E:\Информатика\3 semester\Practik_5\obj\Debug\Practik_5.exe
+E:\Информатика\3 semester\Practik_5\obj\Debug\Practik_5.pdb
